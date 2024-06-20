@@ -1,0 +1,22 @@
+main {
+  overflow: auto;
+  padding: 1rem;
+  width: 100%;
+}
+.dashboard-header h4 {
+  color: #fff;
+}
+.dashboard .card{
+  padding:2rem;
+  margin:2rem;
+}
+.dashboard svg{
+  font-size: 75px;
+  color:#ada6a6c4;
+}
+.dashboard a{text-decoration: none;}
+.dashboard h6{font-size: 2rem;
+
+color: black;
+font-weight:600;
+}

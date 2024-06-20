@@ -1,0 +1,67 @@
+.group-header{
+    margin: 20px 0;
+}
+.group-header button {
+    all: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    color: #fff;
+    background: #3c009d;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 10px;
+  }
+  .group .card-header h5{
+  color: #3c009d;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-transform: capitalize;
+  }
+  .group .card-body{cursor: pointer;}
+  .group .card-body h5{ 
+    font-size: 1.1rem;
+  }
+  /* .group .card{border:none;} */
+.group .card.active{
+    border: none;
+    box-shadow: rgba(52, 52, 176, 0.1) 0px 4px 16px, rgba(125, 125, 233, 0.1) 0px 8px 24px, rgba(20, 20, 135, 0.1) 0px 16px 56px;
+    }
+    .groupmodal input{
+      width:100%;
+      padding:8px 15px;
+      border: 1px dashed rgb(154, 147, 147);
+      margin-bottom: 8px;
+      border-radius: 4px;
+    }
+    .groupmodal input:focus{outline: none;}
+    .groupmodal label{
+      margin-bottom: 3px;
+    }
+   .groupmodal .css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color:#ddd;
+    background-color: #3c009d;
+    border-radius: 3px;
+   }
+   .groupmodal .css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover{
+    background-color: #3c009d;
+   }
+   .group svg{    font-size: 20px;
+    color: gray;}
+
+.css-1wnsr1i {
+  width:40% !important;
+}
+
+   form .btn{
+      background-color:#3c009d;
+      margin:0 0 0 auto;
+      color:white;
+    }
+    form .btn:hover{
+      all: unset;
+    }

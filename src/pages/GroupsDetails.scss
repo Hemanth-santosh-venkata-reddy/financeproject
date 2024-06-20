@@ -1,0 +1,19 @@
+.GroupsDetails {
+    .input-group {
+        width: 50%;
+    }
+
+    svg {
+        font-size: 20px;
+        color: gray;
+    }
+    .input-group-text{
+        background-color: #3c009d;
+        color:#fff;
+    }
+    .card-header{
+        color:#3c009d;
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+}
